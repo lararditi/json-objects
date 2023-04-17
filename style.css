@@ -1,0 +1,49 @@
+body {
+	font-family: serif;
+	font-size:10px;
+	background-color: #eaeaea;
+    color: #0c250c;
+}
+
+h1, h2 {
+	font-weight:normal;
+	text-align:center;
+}
+
+#quotes {
+	display: flex;
+	/* flex-wrap:wrap; */
+	justify-content: left;
+}
+
+.quote{
+	padding:20px;
+	max-width: 100px;
+	max-height: 20px;
+	margin:20px;
+	position: relative;
+}
+
+.yellow {
+	background-color:#99ff71;
+}
+
+.green {
+	background-color:#fffc5c;
+}
+
+.indifferent {
+	border: 2px dashed;
+}
+
+.info{
+	display: inline-block
+}
+
+.quote green is open{
+
+}
+
+.quote green is open{
+	
+}
