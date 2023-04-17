@@ -6,7 +6,8 @@
     "unique_quote_id": "“Food builds not only our bodies but also our social relationships, identities and sense of self.",
     "author": "Lupton",
     "title": "Hummus Masculinity",
-    "color": "gray"
+    "color": "gray",
+    "id" : 1
 },
 
 {
@@ -16,7 +17,8 @@
     "unique_quote_id": "We appear to be capable of eating (and liking) anything that is not immediately toxic. Cross cultural studies if dietary preferences reveal eloquently that the universes that human groups treat matter-of-factly as their “natural-environments”” are clearly social, symbolically constructed universes.",
     "author": "Mintz",
     "title": "Power and Sweetness",
-    "color": "gray"
+    "color": "gray",
+    "id" : 2
 },
 {
 
@@ -24,17 +26,8 @@
     "religion": false,
     "unique_quote_id": "autonomy, freedom, adaptability. Unlike specialized eaters, an omnivore has the invaluable ability to thrive on a multitude of different foodstuffs and diets, and so to adapt to changes in its environment.",
     "author": "Fischler",
-    "color": "gray"
-},
-
-{
-    
-    "food": false,
-    "religion": true,
-    "unique_quote_id": "The rabbi has no power to decree the Kashruth of the product and merely expresses his opinion.",
-    "author": "Jacobs",
-    "title": "Schmaltz",
-    "color": "gray"
+    "color": "gray",
+    "id" : 3
 },
 
 {
@@ -44,7 +37,8 @@
     "unique_quote_id": "The rabbi has no power to decree the Kashruth of the product and merely expresses his opinion.",
     "author": "Jacobs",
     "title": "Jews, Schmaltz, and Crisco in the Age of Industrial Food",
-    "color": "gray"
+    "color": "gray",
+    "id" : 4
 },
 
 {
@@ -54,7 +48,8 @@
     "unique_quote_id": "As more than two million Jews entered the United States with the wave of European immigration between 1880 and 1924, there were no kosher certification agencies.",
     "author": "Gross",
     "title": "Jews, Schmaltz, and Crisco in the Age of Industrial Food",
-    "color": "gray"
+    "color": "gray",
+    "id" : 5
 },
 
 {
@@ -64,7 +59,8 @@
     "unique_quote_id": "History reveals too many cases in which food has been shaped by status, religion, ethnic rivalry, and other factors. It is not clear whether the sensible ones are the result of ecological rationality or of a group of people deciding on a foodway and then finding out how to make it do its best in their environment",
     "author": "Anderson",
     "title": "Everyone Eats",
-    "color": "gray"
+    "color": "gray",
+    "id" : 6
 },
 
 {
@@ -74,7 +70,8 @@
     "unique_quote_id": "Ones familiar food can insidiously come to be seen as proper to ones religion.",
     "author": "Anderson",
     "title": "Everyone Eats",
-    "color": "gray"
+    "color": "gray",
+    "id" : 7
 },
 
 {
@@ -84,7 +81,8 @@
     "unique_quote_id": "“taboos (religious laws) and protections can be adequately explained by utilitarian arguments.",
     "author": "Simoons",
     "title": "Everyone Eats",
-    "color": "gray"
+    "color": "gray",
+    "id" : 8
 },
 
 {
@@ -94,7 +92,8 @@
     "unique_quote_id": "The two terms “neophilia” and “neophobia” defined as “prudence, fear of the unknown, resistance to change” and “the tendency to explore, the need for change, novelty, variety” that are important in the way that they minimize the risk of illness and death are a bit harder to explain in modern complex environments",
     "author": "Fischler",
     "title": "Food, Self, Identity",
-    "color": "gray"
+    "color": "gray",
+    "id" : 9
 },
 
 {
@@ -104,7 +103,8 @@
     "unique_quote_id": "autonomy, freedom, adaptability. Unlike specialized eaters, an omnivore has the invaluable ability to thrive on a multitude of different foodstuffs and diets, and so to adapt to changes in its environment.",
     "author": "Fishcler",
     "title": "Food, Self, Identity",
-    "color": "gray"
+    "color": "gray",
+    "id" : 10
 },{
     
     "food": true,
@@ -112,7 +112,8 @@
     "unique_quote_id": "organizing preferences in foods creates distinctions between entire categories of products (meat as masculine vs. vegetables as feminine), between specific items within categories (red meat vs. chicken; potatoes vs. lettuce) and even between tastes (bitter vs. sweet).",
     "author": "Hirsch",
     "title": "Hummus Masculinity",
-    "color": "gray"
+    "color": "gray",
+    "id" : 11
 },
 
 {
@@ -122,7 +123,8 @@
     "unique_quote_id": "Jacobs advocated for placing kashrut in the hands of the lay female consumer— the target of his advertising— opposing the OU’s consolidation of religious authority within an institution of male clergy.",
     "author": "Jacobs",
     "title": "Hummus Masculinity",
-    "color": "gray"
+    "color": "gray",
+    "id" : 12
 },
 
 {
@@ -132,7 +134,8 @@
     "unique_quote_id": "Foods are perhaps the richest source of symbols. Because they are literally taken into the body and have all the associations of life, home, family, health, and embodied being, they are the ultimate “natural symbols",
     "author": "Douglas",
     "title": "Everyone Eats",
-    "color": "gray"
+    "color": "gray",
+    "id" : 13
 },
 
 {
@@ -142,7 +145,8 @@
     "unique_quote_id": "Seventh Generations mission is to transform the world into a healthy, sustainable & equitable place for the next seven generations.",
     "author": "Yossi Hoffman",
     "title": "Why not Impossible Pork",
-    "color": "gray"
+    "color": "gray",
+    "id" : 14
 },
 
 {
@@ -152,7 +156,8 @@
     "unique_quote_id": "Religious foodways thus can be explained either on the basis of ecological sense or on the basis of religious and ritual logic. They are not blind immemorial tradition but pragmatic adaptations to community life.",
     "author": "Anderson",
     "title": "Everyone Eats",
-    "color": "gray"
+    "color": "gray",
+    "id" : 15
 }
 ]
 

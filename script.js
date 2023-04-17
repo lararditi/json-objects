@@ -16,13 +16,24 @@ function renderItems(quotes) {
 
 
   // Loop through each item in the quotes array
+
   quotes.forEach(function (item) {
+
     const listItem = document.createElement("div"); // Make the `div
     listItem.classList.add("quote");
 
     const button =document.createElement("button"); 
+ 
     button.addEventListener("click", function(){
-      listItem.classList.toggle("is-open")
+      
+      var selectedID= document.getElementById("detailbtn"+item.id);
+      if (selectedID.style.display == "none") {
+        selectedID.style.display = "";
+      } else {
+        selectedID.style.display = "none";
+      }
+
+      // listItem.classList.toggle("is-open")
     })
 
     listItem.appendChild(button)
@@ -30,7 +41,7 @@ function renderItems(quotes) {
     const itemDetails = `
 				<div class="data-container">
 					<div class="data-point" style=""></div>
-					<div class="data-details">
+					<div class="data-details" id= "detailbtn${item.id}">
 						<h2>${item.unique_quote_id}</h2>
             <p><em>Title: ${item.title}</p>
 						<p><em>Author: ${item.author}</p>
@@ -88,4 +99,10 @@ fetch("data.json")
   // create drawer toggle function
   drawerButton.addEventListener("click", () => {
     quotes.classList.toggle("is-open");
+   
+
+ 
+       
+
+
   });

@@ -12,7 +12,7 @@ h1, h2 {
 
 #quotes {
 	display: flex;
-	/* flex-wrap:wrap; */
+	flex-wrap:wrap; 
 	justify-content: left;
 }
 
@@ -22,6 +22,8 @@ h1, h2 {
 	max-height: 20px;
 	margin:20px;
 	position: relative;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .yellow {
@@ -37,13 +39,5 @@ h1, h2 {
 }
 
 .info{
-	display: inline-block
-}
-
-.quote green is open{
-
-}
-
-.quote green is open{
-	
+	display: inline-block;
 }
