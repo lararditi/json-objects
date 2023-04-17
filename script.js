@@ -87,22 +87,22 @@ fetch("data.json")
   });
 
 
-  let drawerButtonInfo = document.createElement("div");
-  // add a class to the button element
-  drawerButtonInfo.classList.add("info");
-  // render the value of the record's title
-  // drawerButtonInfo.innerHTML = `${item.unique_quote_id}`;
+  // let drawerButtonInfo = document.createElement("div");
+  // // add a class to the button element
+  // drawerButtonInfo.classList.add("info");
+  // // render the value of the record's title
+  // // drawerButtonInfo.innerHTML = `${item.unique_quote_id}`;
 
-  drawerButton.append(quote);
-  container.append(quote);
+  // drawerButton.append(quote);
+  // container.append(quote);
 
-  // create drawer toggle function
-  drawerButton.addEventListener("click", () => {
-    quotes.classList.toggle("is-open");
+  // // create drawer toggle function
+  // drawerButton.addEventListener("click", () => {
+  //   quotes.classList.toggle("is-open");
    
 
  
        
 
 
-  });
+  // });
