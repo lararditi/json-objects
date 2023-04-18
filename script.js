@@ -75,7 +75,6 @@ function renderItems(quotes) {
    });
  }
 
-
 // Fetch gets your JSON file.
 fetch("data.json")
   .then(function (response) {
