@@ -1,13 +1,16 @@
 body {
 	font-family: serif;
 	font-size:10px;
-	background-color: #eaeaea;
+	background-image: url(s-l1600.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
     color: #0c250c;
 }
 
 h1, h2 {
 	font-weight:normal;
 	text-align:center;
+	background-color: #fffc5c;
 }
 
 #quotes {
@@ -18,8 +21,6 @@ h1, h2 {
 
 .quote{
 	padding:20px;
-	max-width: 100px;
-	max-height: 20px;
 	margin:20px;
 	position: relative;
 	display: flex;
@@ -41,3 +42,4 @@ h1, h2 {
 .info{
 	display: inline-block;
 }
+

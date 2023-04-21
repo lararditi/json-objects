@@ -158,7 +158,63 @@
     "title": "Everyone Eats",
     "color": "gray",
     "id" : 15
+},
+
+{
+    
+    "food": false,
+    "religion": true,
+    "unique_quote_id": "When non-dairy sour creams came out, a lot of Kosher certifications were reluctant to put those on the menus with meat because of marit ayin”—meaning Hebrew for “how it appears to the eye.",
+    "author": "Shapiro",
+    "title": "Is Kosher Pork Still Impossible?",
+    "color": "gray",
+    "id" : 16
+},
+
+{
+    
+    "food": true,
+    "religion": ,
+    "unique_quote_id": "If one were to try and decode the grammar of foods in this case, the importance and rationale of these food practices would indicate their significance for the self conception.",
+    "author": "Sumbul",
+    "title": "Transcendental Transactions",
+    "color": "gray",
+    "id" : 17
+},
+
+{
+    
+    "food": false,
+    "religion": true,
+    "unique_quote_id": "To engage in these practices (or conversely, to disparage them) is to performatively announce one’s identity because the rituals derive structurally and theoretically from the theological beliefs”  that index identity.",
+    "author": "Sumbul",
+    "title": "Transcendental Transactions",
+    "color": "gray",
+    "id" : 18
+},
+
+{
+    
+    "food": true,
+    "religion": false,
+    "unique_quote_id": "You are what you eat",
+    "author": "Jain",
+    "title": "Peace, Love, Yoga ",
+    "color": "gray",
+    "id" : 19
+},
+
+{
+    
+    "food": true,
+    "religion": false,
+    "unique_quote_id": "Ramdev is also building a massive corporation selling packaged, branded, and commercialized products with sleek modern advertising, and he thrives in a modern neoliberal health- and- wellness sector that is growing globally, a sector that callson consumers to take responsibility for their health, wellness, success, and empowerment",
+    "author": "Jain",
+    "title": "Peace, Love, Yoga ",
+    "color": "gray",
+    "id" : 20
 }
+
 ]
 
 

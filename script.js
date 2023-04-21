@@ -23,7 +23,7 @@ function renderItems(quotes) {
     listItem.classList.add("quote");
 
     const button =document.createElement("button"); 
- 
+    
     button.addEventListener("click", function(){
       
       var selectedID= document.getElementById("detailbtn"+item.id);
@@ -41,7 +41,7 @@ function renderItems(quotes) {
     const itemDetails = `
 				<div class="data-container">
 					<div class="data-point" style=""></div>
-					<div class="data-details" id= "detailbtn${item.id}">
+					<div class="data-details" id= "detailbtn${item.id}" style="display: none;">
 						<h2>${item.unique_quote_id}</h2>
             <p><em>Title: ${item.title}</p>
 						<p><em>Author: ${item.author}</p>
