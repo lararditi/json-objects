@@ -105,7 +105,9 @@
     "title": "Food, Self, Identity",
     "color": "gray",
     "id" : 10
-},{
+},
+
+{
     
     "food": true,
     "religion": false,
@@ -174,7 +176,7 @@
 {
     
     "food": true,
-    "religion": ,
+    "religion": false,
     "unique_quote_id": "If one were to try and decode the grammar of foods in this case, the importance and rationale of these food practices would indicate their significance for the self conception.",
     "author": "Sumbul",
     "title": "Transcendental Transactions",

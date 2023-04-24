@@ -1,16 +1,20 @@
 body {
 	font-family: serif;
 	font-size:10px;
-	background-image: url(s-l1600.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-image: url(Cork.jpg);
+
+	object-fit: cover;
+	
     color: #0c250c;
+}
+
+.title{
+	background-color:#99ff71;
 }
 
 h1, h2 {
 	font-weight:normal;
 	text-align:center;
-	background-color: #fffc5c;
 }
 
 #quotes {
